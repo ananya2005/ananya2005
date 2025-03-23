@@ -68,5 +68,13 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananya2005&show_icons=true&theme=default" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya2005&theme=default" alt="GitHub Streak Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya2005&layout=compact&theme=default" alt="Top Languages" />
+
 ---
 Happy coding! Feel free to connect and collaborate.
