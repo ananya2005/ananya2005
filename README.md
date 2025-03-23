@@ -7,6 +7,7 @@
 ## 🚀 About Me
 - 🔭 I'm currently working on building robust data pipelines and full-stack applications
 - 💡 I specialize in data engineering, ETL processes, and full-stack development
+- 🌱 I'm learning about Gen AI
 - 🎯 I'm passionate about creating efficient, scalable solutions
 - 💬 Ask me about data engineering, web development, or cloud architecture
 - 📫 How to reach me: www.linkedin.com/in/ananya-srivastava001
