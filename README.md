@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ananya Srivastava
-### Full Stack Developer & Data Engineer
-Building scalable applications and data solutions
+### Full Stack Developer & Data Engineer - Building scalable applications and data solutions
+
 
 <img src="https://komarev.com/ghpvc/?username=ananya2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -29,10 +29,9 @@ Building scalable applications and data solutions
 
 ### Backend Development
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
 </p>
 
 ### Cloud & DevOps
@@ -64,7 +63,7 @@ Building scalable applications and data solutions
 ## 📫 Connect With Me
 <p>
   <a href="https://linkedin.com/in/ananya-srivastava001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
 </p>
 
