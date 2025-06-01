@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ananya Srivastava
-### Full Stack Developer & Data Engineer - Building scalable applications and data solutions
+### Data Engineer & Full Stack Developer - Building scalable applications and data solutions
 
 
 <img src="https://komarev.com/ghpvc/?username=ananya2005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
